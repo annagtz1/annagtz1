@@ -5,7 +5,7 @@ HOW TO USE THIS FILE:
 3. GitHub will automatically show it on your github.com/annagtz1 profile page.
 -->
 
-### Hi, I'm Anna 👋
+### Hi, I'm Anna 
 
 Computational social scientist and data analyst. I use Python, R, and SQL to turn
 messy social, labor-market, and behavioral data into findings people can act on —
@@ -14,7 +14,7 @@ from labor-market NLP to causal inference on public opinion and public health.
 **MS, Data Analytics & Computational Social Science** — UMass Amherst
 **BA, Sociology (Digital Humanities minor)** — UCLA
 
-🔗 [Portfolio site](https://annagtz1.github.io) · [LinkedIn](#) · [Resume](#)
+🔗 [Portfolio site](https://annagtz1.github.io) · [LinkedIn](https://www.linkedin.com/in/anna-gutierrez-m-s/) · [Resume](https://drive.google.com/file/d/18Z_jcEZngU_bxekYAchCAjbvsk7Q4vx-/view?usp=sharing)
 
 ---
 
@@ -37,4 +37,4 @@ from labor-market NLP to causal inference on public opinion and public health.
 
 `Python` `R` `SQL` `scikit-learn` `Prefect` `Qualtrics` — NLP & topic modeling, supervised ML, causal inference, ETL pipelines, survey design.
 
-📫 Reach me at **youremail@example.com**
+📫 Reach me at **annagutierrez3359@gmail.com*
