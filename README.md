@@ -29,12 +29,10 @@ from labor-market NLP to causal inference on public opinion and public health.
 | [Public Opinion on AI](https://github.com/annagtz1/public-opinion-on-ai) | Survey Research | Original survey design + stakeholder recommendations |
 | [U.S. Bird Biodiversity](https://github.com/annagtz1/us-bird-biodiversity-geospatial-ml) | Geospatial ML | eBird API + K-means for conservation planning |
 
-*See the [full portfolio](https://annagtz1.github.io) for all 8 projects, including two earlier UCLA social-statistics studies.*
-
 ---
 
 #### Toolkit
 
 `Python` `R` `SQL` `scikit-learn` `Prefect` `Qualtrics` — NLP & topic modeling, supervised ML, causal inference, ETL pipelines, survey design.
 
-📫 Reach me at **annagutierrez3359@gmail.com*
+📫 Reach me at *annagutierrez3359@gmail.com*
