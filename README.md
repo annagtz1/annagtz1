@@ -7,9 +7,9 @@ HOW TO USE THIS FILE:
 
 ### Hi, I'm Anna 
 
-Computational social scientist and data analyst. I use Python, R, and SQL to turn
+Data & Analytics Professional. I use Python, R, and SQL to turn
 messy social, labor-market, and behavioral data into findings people can act on —
-from labor-market NLP to causal inference on public opinion and public health.
+from labor-market NLP to causal inference on public opinion and public health. Exploring opportunities in analytics, data science, research, and beyond.
 
 **MS, Data Analytics & Computational Social Science** — UMass Amherst
 **BA, Sociology (Digital Humanities minor)** — UCLA
