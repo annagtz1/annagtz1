@@ -28,6 +28,7 @@ from labor-market NLP to causal inference on public opinion and public health. E
 | [Modeling Climate Concern](https://github.com/annagtz1/modeling-climate-concern) | Causal Inference | Separated cause from correlation in climate attitudes |
 | [Public Opinion on AI](https://github.com/annagtz1/public-opinion-on-ai) | Survey Research | Original survey design + stakeholder recommendations |
 | [U.S. Bird Biodiversity](https://github.com/annagtz1/us-bird-biodiversity-geospatial-ml) | Geospatial ML | eBird API + K-means for conservation planning |
+| [Maternal Mortality Disparities](https://github.com/annagtz1/maternal-mortality-disparities) | Public Health Statistics | Preventable deaths, unequal risk: Certain groups face higher U.S. maternal mortality |
 
 ---
 
@@ -35,4 +36,4 @@ from labor-market NLP to causal inference on public opinion and public health. E
 
 `Python` `R` `SQL` `scikit-learn` `Prefect` `Qualtrics` — NLP & topic modeling, supervised ML, causal inference, ETL pipelines, survey design.
 
-📫 Reach me at *annagutierrez3359@gmail.com*
+Reach me at *annagutierrez3359@gmail.com*
