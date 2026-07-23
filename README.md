@@ -14,7 +14,7 @@ from labor-market NLP to causal inference on public opinion and public health. E
 **MS, Data Analytics & Computational Social Science** — UMass Amherst
 **BA, Sociology (Digital Humanities minor)** — UCLA
 
-🔗 [Portfolio site](https://annagtz1.github.io) · [LinkedIn](https://www.linkedin.com/in/anna-gutierrez-m-s/) · [Resume](https://drive.google.com/file/d/1Kf464iyAhTNaMCsnnGoV19l7DH9RKhB7/view?usp=sharing)
+🔗 [Portfolio site](https://annagtz1.github.io) · [LinkedIn](https://www.linkedin.com/in/anna-gutierrez-m-s/) · [Resume](https://drive.google.com/file/d/1XaYhBQTcIubNDtppnZjskGxlPfhRug4T/view?usp=sharing)
 
 ---
 
